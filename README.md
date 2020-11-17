@@ -4,9 +4,9 @@
 <img align="right" alt="Black and White Gif" src="https://github.com/Nedss/nedss/blob/main/img/bnw.gif?raw=true" width="400" />
 
 I'm Nicolas SOIRAT aka Nedss
-- 🧬 I'm a **PhD Student** in **Bioinformatic**
+- 🧬 I'm a **PhD Student** in **Bioinformatics**
 - 🏢 I'm currently working at **[SeqOne](https://seq.one/)** and **[Centre François Baclesse](https://www.baclesse.fr/)** in **France**
-- 💻 I love developping useless things and push it on GitHub
+- 💻 I love developing useless things and pushing it on GitHub
 - (🍎 Apple Fag)
 
 
