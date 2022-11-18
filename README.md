@@ -40,5 +40,5 @@ I'm Nicolas SOIRAT aka Nedss
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nedss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1d1f21" alt="Nedss's GitHub Stats" />
 </a>
 <a href="https://github.com/Nedss/nedss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedss&hide=html, css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nedss' Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedss&layout=compact&hide=html, css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nedss' Most used languages" />
 </a>
