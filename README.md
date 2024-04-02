@@ -1,14 +1,13 @@
 # Salut ! 🇫🇷 ![](https://visitor-badge.glitch.me/badge?page_id=nedss.nedss)
 
-
 <img align="right" alt="Black and White Gif" src="https://github.com/Nedss/nedss/blob/main/img/bnw.gif?raw=true" width="400" />
 
 I'm Nicolas SOIRAT aka Nedss
-- 🧬 I'm a **PhD Student** in **Bioinformatics**
-- 🏢 I'm currently working at **[SeqOne](https://seq.one/)** and **[Centre François Baclesse](https://www.baclesse.fr/)** in **France**
+
+- 🧬 I'm a **PhD engineer** in **Bioinformatics**
+- 🏢 I'm currently working at **[SeqOne](https://seq.one/)** in **France**
 - 💻 I love developing useless things and pushing it on GitHub
 - (🍎 Apple Fag)
-
 
 <br />
 
